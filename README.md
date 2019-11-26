@@ -1,16 +1,20 @@
-# flutter_app
+# 大热门
 
-A new Flutter application.
+基于Flutter构建的热门榜单APP，新手的练手之作
 
-## Getting Started
+## 演示
 
-This project is a starting point for a Flutter application.
+**下载地址**：[apk下载](https://www.pgyer.com/daremen)  
 
-A few resources to get you started if this is your first Flutter project:
+**下载密码**：123
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Screenshot_2019-11-26-20-20-56-217_com.wangjie.daremen.jpg](https://i.loli.net/2019/11/26/2yMvnklq3Q6gCVT.jpg)
+
+![Screenshot_2019-11-26-20-21-01-625_com.wangjie.daremen.jpg](https://i.loli.net/2019/11/26/K3wdf45XPvIFcNr.jpg)
+
+![Screenshot_2019-11-26-20-21-20-862_com.wangjie.daremen.jpg](https://i.loli.net/2019/11/26/rf54w7RLdYaBuFk.jpg)
+
+
+感谢https://tophub.fun/的API地址。
